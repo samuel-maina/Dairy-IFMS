@@ -18,4 +18,4 @@
 > ENJOY!
 
 # PROJECT STATUS
-> project not yet complete
+> project complete
