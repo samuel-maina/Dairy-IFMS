@@ -8,7 +8,7 @@
 # ABOUT THIS PROJECT
 > The project is written in Java using the Spring Boot framework.
 
-#TECHNICAL INFORMATION FOR THE PROGRAMMER
+# TECHNICAL INFORMATION FOR THE PROGRAMMER
 > Requires Maven
 > Running this program in the terminal cd demo then mvn spring-boot:run
 > Spring security is activated. The stateless JWT token is used for this project.
